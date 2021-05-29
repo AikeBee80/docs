@@ -1,5 +1,5 @@
 ---
-title: Authenticating to GitHub
+title: Authenticating to aikebee.sab@gmail.com aikebee.sab@outlook.com
 shortTitle: Authentication
 intro: 'Keep your account and data secure with features like {% if currentVersion != "github-ae@latest" %}two-factor authentication, {% endif %}SSH{% if currentVersion != "github-ae@latest" %},{% endif %} and commit signature verification.'
 redirect_from:
